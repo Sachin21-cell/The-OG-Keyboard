@@ -1,3 +1,4 @@
+Item,Reference,Qty,Value,Footprint,Description
 1	U1	1	Waveshare ESP32-S3-Zero	Module:Waveshare_ESP32-S3-Zero	Microcontroller Module with USB-C
 2	SW1-SW7	7	Kailh Choc Low-Profile Switch	Keyboard:Kailh_Choc_v1	Low-profile mechanical key switch
 3	RV1	1	Bourns 10k Slide Potentiometer	Potentiometer_SMD:Bourns_Slide_10k	Linear slide potentiometer for parameter control
