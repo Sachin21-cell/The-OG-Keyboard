@@ -1,8 +1,9 @@
-Item,Reference,Qty,Value,Footprint,Description
-1	U1	1	Waveshare ESP32-S3-Zero	Module:Waveshare_ESP32-S3-Zero	Microcontroller Module with USB-C
-2	SW1-SW7	7	Kailh Choc Low-Profile Switch	Keyboard:Kailh_Choc_v1	Low-profile mechanical key switch
-3	RV1	1	Bourns 10k Slide Potentiometer	Potentiometer_SMD:Bourns_Slide_10k	Linear slide potentiometer for parameter control
-4	ENC1	1	EC11 Vertical Rotary Encoder	Encoder:EC11_Vertical	Rotary encoder with push switch
-5	D1-D4	4	SK6812 MINI-E Neopixel LED	LED_SMD:SK6812MINI-E	Addressable RGB LED (Reverse Mount)
-6	J1	1	7-Pin 1.00mm Header / Capacitive Touch	Connector_PinHeader_1.00mm:PinHeader	Capacitive touch key pads connection
-7	MP1-MP2	2	Slide Potentiometer Mounting Pins	Potentiometer_SMD:R_Potentiometer_Mounting	Mechanical ground mounting pads
+Item,Qty,Supplier,Cost/item,Total Cost,link
+1 U1 1 Waveshare ESP32-S3-Zero Module:Waveshare_ESP32-S3-Zero Microcontroller Module with USB-C,1,,$0.00,$0.00,
+2 SW1-SW7 7 Kailh Choc Low-Profile Switch Keyboard:Kailh_Choc_v1 Low-profile mechanical key switch,1,,$0.00,$0.00,
+3 RV1 1 Bourns 10k Slide Potentiometer Potentiometer_SMD:Bourns_Slide_10k Linear slide potentiometer for parameter contr,1,,$0.00,$0.00,
+4 ENC1 1 EC11 Vertical Rotary Encoder Encoder:EC11_Vertical Rotary encoder with push switch,1,,$0.00,$0.00,
+5 D1-D4 4 SK6812 MINI-E Neopixel LED LED_SMD:SK6812MINI-E Addressable RGB LED (Reverse Mount),1,,$0.00,$0.00,
+6 J1 1 7-Pin 1.00mm Header / Capacitive Touch Connector_PinHeader_1.00mm:PinHeader Capacitive touch key pads connection,1,,$0.00,$0.00,
+7 MP1-MP2 2 Slide Potentiometer Mounting Pins Potentiometer_SMD:R_Potentiometer_Mounting Mechanical ground mounting pads,1,,$0.00,$0.00,
+Estimated total shipping,1,,,$0.00,
